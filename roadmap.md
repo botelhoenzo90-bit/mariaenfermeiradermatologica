@@ -10,3 +10,4 @@
 - [x] Adicionar as seis fotos clínicas na seção antes e depois
 - [x] Trocar a escrita do topo da sessao 1 pela logo Cicatrize+
 - [x] Trocar a logo do topo pela nova com selo ENFERMEIRA DERMATOLÓGICA
+- [x] Tirar o efeito dourado no fundo da logo
