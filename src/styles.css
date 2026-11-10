@@ -468,3 +468,6 @@ body,.jt-site{color:#142c50;background:#fff}
 
 .maria-hero-logo{width:230px;margin:0 auto 22px}
 .maria-hero-logo img{display:block;width:100
+.maria-hero-logo{width:230px;margin:0 auto 22px}
+.maria-hero-logo img{display:block;width:100%;height:auto;mix-blend-mode:screen}
+@media(max-width:600px){.maria-hero-logo{width:188px;margin-bottom:16px}}
