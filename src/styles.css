@@ -75,7 +75,6 @@ body,.jt-site{background:#fff;color:#182b40}
 .header-cta:hover,.btn-primary:hover{background:linear-gradient(135deg,#e7d39c,#c3a25b)}
 .btn-outline{border:1px solid #c9a75b;color:#17314f;background:#fff}
 .hero{background:radial-gradient(ellipse at 50% 0%,rgba(201,167,91,.14),transparent 48%),linear-gradient(135deg,#f8fafc 0%,#eef3f8 58%,#e3eaf2 100%)}
-.hero-glow{background:radial-gradient(circle,rgba(201,167,91,.19),rgba(20,43,69,.04) 42%,transparent 68%)}
 .eyebrow{color:#9b7b3e}
 .hero h1,.section h2{color:#172e49}
 .hero h1 em,.section h2 em{color:#a88745}
@@ -178,7 +177,6 @@ body,.jt-site{color:#142c50;background:#fff}
 .header-cta:hover,.btn-primary:hover{background:linear-gradient(120deg,#f8e18a,#e8bf4f)}
 .btn-outline{border:1px solid #d8b44e;color:#142c50;background:#fff}
 .hero,.maria-hero{background:linear-gradient(145deg,#10264a 0%,#142f59 58%,#193963 100%);color:#fff}
-.hero-glow{background:radial-gradient(circle,rgba(232,191,79,.22),rgba(232,191,79,.06) 42%,transparent 68%)}
 .hero h1{color:#fff}.hero h1 em{color:#edc853}
 .hero-lead{color:#e0e7f0}
 .eyebrow{color:#cba53e}
