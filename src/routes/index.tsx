@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import compartilhamentoMaria from "@/assets/compartilhamento-maria.png.asset.json";
-import cicatrizeLogo from "@/assets/cicatrize-maria-logo.png.asset.json";
+import cicatrizeLogo from "@/assets/cicatrize-maria-original.png.asset.json";
 import ulceraCalcanhar from "@/assets/ulcera-calcanhar.jpg.asset.json";
 import ulceraPlantar from "@/assets/ulcera-plantar.png.asset.json";
 import escarasGluteas from "@/assets/escaras-gluteas.jpg.asset.json";
