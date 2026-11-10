@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import compartilhamentoMaria from "@/assets/compartilhamento-maria.png.asset.json";
+import cicatrizeLogo from "@/assets/cicatrize-maria-original.png.asset.json";
 import ulceraCalcanhar from "@/assets/ulcera-calcanhar.jpg.asset.json";
 import ulceraPlantar from "@/assets/ulcera-plantar.png.asset.json";
 import escarasGluteas from "@/assets/escaras-gluteas.jpg.asset.json";
@@ -110,7 +111,7 @@ function Index() {
         <div className="hero-glow"/>
         <div className="container hero-grid">
           <div className="hero-copy center-hero">
-            <div className="hero-profile-intro"><span className="hero-profile-name">Maria de Jesus de Souza Costa</span><span className="hero-profile-role">ENFERMEIRA DERMATOLÓGICA</span></div>
+            <div className="hero-logo maria-hero-logo"><img src={cicatrizeLogo.url} alt="Cicatrize+ tratamento de feridas — Maria de Jesus, enfermeira dermatológica" /></div>
             <h1>Tratamento de feridas com <em>conhecimento e cuidado.</em></h1>
             <p className="hero-lead">Sou Maria de Jesus de Souza Costa, enfermeira dermatológica. Meu trabalho é oferecer cuidado individualizado no tratamento de feridas e no acompanhamento da recuperação, com atenção à sua história e às suas necessidades.</p>
             <div className="hero-actions">
