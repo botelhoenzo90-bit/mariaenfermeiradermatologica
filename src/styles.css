@@ -467,7 +467,5 @@ body,.jt-site{color:#142c50;background:#fff}
 @media(max-width:780px){.prf-feature-section{padding:54px 0}.prf-feature-grid{grid-template-columns:1fr;gap:30px}.prf-feature-photo{min-height:340px;border-radius:24px 65px 24px 24px}.prf-feature-copy h2{font-size:clamp(29px,7vw,36px)}}
 
 .maria-hero-logo{width:230px;margin:0 auto 22px}
-.maria-hero-logo img{display:block;width:100
-.maria-hero-logo{width:230px;margin:0 auto 22px}
 .maria-hero-logo img{display:block;width:100%;height:auto;mix-blend-mode:screen}
 @media(max-width:600px){.maria-hero-logo{width:188px;margin-bottom:16px}}
