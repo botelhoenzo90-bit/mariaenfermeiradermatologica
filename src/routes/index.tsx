@@ -108,7 +108,6 @@ function Index() {
       </header>
 
       <section className="hero maria-hero" id="inicio">
-        <div className="hero-glow"/>
         <div className="container hero-grid">
           <div className="hero-copy center-hero">
             <div className="hero-logo maria-hero-logo"><img src={cicatrizeLogo.url} alt="Cicatrize+ tratamento de feridas — Maria de Jesus, enfermeira dermatológica" /></div>
